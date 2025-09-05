@@ -6,5 +6,5 @@ def test_soma():
     assert soma(0, 0) == 0
 
 def test_multiplica():
-    assert multiplicaa(2,2)==4
+    assert multiplica(2,2)==4
     assert multiplica(2,5)==10
